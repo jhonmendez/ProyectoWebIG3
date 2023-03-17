@@ -1,0 +1,36 @@
+body {
+
+    background-color: blue;
+
+}
+
+span {
+
+    color: red;
+}
+
+h1,h2,p {
+
+    text-align: center;
+}
+
+/* Ejemplo */
+h1 span {
+
+    color: white;
+}
+
+.destacado {
+
+    font-size: 40px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+
+#unico {
+
+    text-align: center;
+    color: red;
+}
